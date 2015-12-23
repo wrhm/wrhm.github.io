@@ -1,3 +1,7 @@
 li {
 	color: blue;
 }
+
+li:hover {
+	text-decoration: underline;
+}
