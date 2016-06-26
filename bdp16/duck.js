@@ -1,3 +1,10 @@
+/*
+//Get
+var bla = $('#txt_name').val();
+
+//Set
+$('#txt_name').val('bla');
+*/
 
 //http://stackoverflow.com/questions/7616461/generate-a-hash-from-string-in-javascript-jquery
 function hash(msg) {
@@ -9,14 +16,6 @@ function hash(msg) {
 	}
 	return hash;
 }
-
-// function encrypt(msg) {
-// 	var result = "";
-// 	for (var i=0;i<msg.length;i++) {
-// 		result += msg[i]+msg[i];
-// 	}
-// 	return result;
-// }
 
 function myxor(msg, key) { 
 	var result = "";
@@ -45,35 +44,22 @@ function getAnswer(n) {
 $(document).ready(function(){
     $("#txt_name").keyup(function(event){
         if(event.keyCode == 13){
-            $("#button1").click();
+            $("#entrybutton").click();
         }
     });
 
-    $("#button1").click(function(){
-        // $('#txt_name').val('quack');
-        // alert($('#txt_name').val() == 'foo');
-        // alert(encrypt($('#txt_name').val()));
-
-        // var textval = $('#txt_name').val()
-        // var hashval = hash(textval);
-       	// var xored = myxor(textval,xorkey);
-       	// var recovered = myxor(xored,xorkey)
-        // alert("\""+xored+"\"" + '\n' + recovered);
-		
-		// alert(getAnswer(0)+'\n'+getAnswer(1)+'\n'+getAnswer(2)+'\n'+getAnswer(3));
-		var rellink = getAnswer(0);
-		var newlink = "<span>Quack! You did it! ";
-		newlink += "<a href=\""+rellink+"\">Next Puzzle</a></span>";
+    $("#entrybutton").click(function(){
+    	var buttonvalnum = $(this).attr('value');
+        var textval = $('#txt_name').val()
+		var rellink = getAnswer(parseInt(buttonvalnum));
+		var newlink = "<span class=\"msg\">Oops! Not quite. Try again.</span>";
+		if(rellink.localeCompare(textval) == 0) {
+			newlink = "<span class=\"msg\">Quack! You did it! ";
+			newlink += "<a href=\""+rellink+".html\">Next Puzzle</a></span>";
+		}
+		$(".msg").remove();
 		$("body").append(newlink);
     });
 
     $("#txt_name").focus();
 })
-
-/*
-//Get
-var bla = $('#txt_name').val();
-
-//Set
-$('#txt_name').val('bla');
-*/
