@@ -59,8 +59,8 @@ function getPageName(n) {
 }
 
 function checkAnswer(ans,n) {
-	var hashes = [96354,97,97,97];
-	// abc,a,a,a
+	var hashes = [3094713,97,97,97];
+	// duck,a,a,a
 	// alert(hashes[n]+"\n"+ans+"\n"+hash(ans));
 	return (hashes[n] === hash(ans));
 }
@@ -82,7 +82,7 @@ $(document).ready(function(){
 		//if(rellink.localeCompare(textval) == 0) {
 		if(checkAnswer(textval,buttonvalnum) == 1) {
 			newlink = "<span class=\"msg\">Quack! You did it! ";
-			newlink += "<a href=\""+rellink+".html\">Next Puzzle</a></span>";
+			newlink += "<a href=\""+rellink+".html\">Next Step</a></span>";
 		}
 		$(".msg").remove();
 		$("body").append(newlink);
