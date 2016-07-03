@@ -1,0 +1,12 @@
+body {
+	background-image: url("img/bg0.jpg");
+}
+p, span, table {
+	background-color: rgba(200,200,200,0.6);
+}
+.container {
+	text-align: center;
+}
+td {
+	text-align: center;
+}

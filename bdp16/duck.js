@@ -1,11 +1,3 @@
-/*
-//Get
-var bla = $('#txt_name').val();
-
-//Set
-$('#txt_name').val('bla');
-*/
-
 //http://stackoverflow.com/questions/7616461/generate-a-hash-from-string-in-javascript-jquery
 function hash(msg) {
 	var hash = 0, chr;
@@ -60,8 +52,6 @@ function getPageName(n) {
 
 function checkAnswer(ans,n) {
 	var hashes = [3094713,-1335220573,-292193090,94921146,3287937];
-	// duck,detect,uncover,crack,keel
-	// alert(hashes[n]+"\n"+ans+"\n"+hash(ans));
 	return (hashes[n] === hash(ans.toLowerCase()));
 }
 
@@ -78,7 +68,6 @@ $(document).ready(function(){
     	var buttonvalnum = parseInt($(this).attr('value'));
         var textval = $('#txt_name').val();
 		var newlink = "<span class=\"msg\">Oops! Not quite. Try again.</span>";
-		//if(rellink.localeCompare(textval) == 0) {
 		if(checkAnswer(textval,buttonvalnum) == 1) {
 			newlink = "<span class=\"msg\">Quack! You did it! ";
 			if(buttonvalnum<=3) {
@@ -89,7 +78,6 @@ $(document).ready(function(){
 			}
 		}
 		$(".msg").remove();
-		// $("body").append(newlink);
 		$("#entry").append(newlink);
     });
 
@@ -103,9 +91,7 @@ $(document).ready(function(){
         var textval = $('#hashbox').val();
         var hv = hash(textval);
         var newlink = "<span class=\"msg\">"+hv+"</span>";
-		//if(rellink.localeCompare(textval) == 0) {
 		$(".msg").remove();
-		// $("body").append(newlink);
 		$("#entry").append(newlink);
     });
 
@@ -113,9 +99,7 @@ $(document).ready(function(){
         var textval = $('#hashbox').val();
         var xv = myxor(textval,"8A)3@!Nn.a3l4");
         var newlink = "<span class=\"msg\">"+xv+"</span>";
-		//if(rellink.localeCompare(textval) == 0) {
 		$(".msg").remove();
-		// $("body").append(newlink);
 		$("#entry").append(newlink);
     });
 
@@ -133,12 +117,9 @@ $(document).ready(function(){
     $(".incorrect").click(function(){
     	var idnum = $(this).parent().attr('id');
     	var digit = parseInt(idnum.charCodeAt(1))-48;
-    	// var err = "hid: ";
     	for (var i=1;i<=5;i++) {
     		$("#c"+i).hide();
-    		// err = err + " " + idnum;
     	}
-    	// alert(err);
     	$(".msg").remove();
 		var newlink = "<span class=\"msg\">Uh oh! You done ducked up!</span>";
 		$("#entry").append(newlink);
