@@ -1,3 +1,5 @@
+<!-- alphabet puzzle (only j left) 
+CRACK-->
 <!DOCTYPE html>
 <html>
 	<head>
@@ -5,11 +7,56 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.3.min.js" ></script>
 		<script type="text/javascript" src="duck.js"></script>
-
+		<style>
+			td {
+				text-align: center;
+			}
+			.p_right {
+				text-align: right;
+			}
+		</style>
 	</head>
 	<body>
-
+		<div id="entry">
 		QUACKER: <input type="text" id="txt_name"/>
 		<button id="entrybutton" value='3'>Check</button>
+		</div><hr>
+		<h3>What's missing?</h3>
+		<p>Fill in the blanks to find out.</p>
+		<center><table>
+			<tr><td>Eider</td>
+			<td>Runner</td>
+			<td>Cres_ed</td> <!-- Crested -->
+			<td>Saxony</td>
+			<td>Blue Swedish</td>
+			</tr><tr><td>Australian Call</td>
+			<td>_ndian Runner</td> <!-- Indian -->
+			<td>Dutch Hookbill</td>
+			<td>Welsh Harlequin</td>
+			<td>Ancona</td>
+			</tr><tr><td>Pomeranian</td>
+			<td>_labio</td> <!-- Alabio -->
+			<td>Elizabeth</td>
+			<td>Khaki Campbell</td>
+			<td>Hook Bill</td>
+			</tr><tr><td>Silver Appleyard</td>
+			<td>Orpington</td>
+			<td>Aylesbury</td>
+			<td>Bu_f</td> <!-- Buff -->
+			<td>Magpi_</td> <!-- Magpie -->
+			</tr><tr><td>Rouen</td>
+			<td>Malla_d</td> <!-- Mallard -->
+			<td>Golden Cascade</td>
+			<td>Black East Indian</td>
+			<td>Campbell</td></tr>
+		</table></center>
+
+		<p class="p_right">(This <a href="https://en.wikipedia.org/wiki/List_of_duck_breeds">link</a> may be useful...)</p>
+		<center class="ffcenter">
+			<p>_ _ _ _ _ "_": _</p>
+			<p>(Enter all 7 (yes, 7) letters with no spaces. Case doesn't matter.)</p>
+			<input type="text" id="ffbox"/>
+			<button id="ffbutton">Check</button>
+		</center>
 	</body>
 </html>

@@ -59,10 +59,10 @@ function getPageName(n) {
 }
 
 function checkAnswer(ans,n) {
-	var hashes = [3094713,97,97,97];
-	// duck,a,a,a
+	var hashes = [3094713,-1335220573,-292193090,94921146,3287937];
+	// duck,detect,uncover,crack,keel
 	// alert(hashes[n]+"\n"+ans+"\n"+hash(ans));
-	return (hashes[n] === hash(ans));
+	return (hashes[n] === hash(ans.toLowerCase()));
 }
 
 $(document).ready(function(){
@@ -73,19 +73,24 @@ $(document).ready(function(){
         }
     });
 
+    $(".reward").hide();
     $("#entrybutton").click(function(){
     	var buttonvalnum = parseInt($(this).attr('value'));
         var textval = $('#txt_name').val();
-		var rellink = getURL(buttonvalnum);
-
 		var newlink = "<span class=\"msg\">Oops! Not quite. Try again.</span>";
 		//if(rellink.localeCompare(textval) == 0) {
 		if(checkAnswer(textval,buttonvalnum) == 1) {
 			newlink = "<span class=\"msg\">Quack! You did it! ";
-			newlink += "<a href=\""+rellink+".html\">Next Step</a></span>";
+			if(buttonvalnum<=3) {
+				var rellink = getURL(buttonvalnum);
+				newlink += "<a href=\""+rellink+".html\">Waddle along...</a></span>";
+			} else {
+				$(".reward").show();
+			}
 		}
 		$(".msg").remove();
-		$("body").append(newlink);
+		// $("body").append(newlink);
+		$("#entry").append(newlink);
     });
 
     $("#hashbox").keyup(function(event){
@@ -100,7 +105,8 @@ $(document).ready(function(){
         var newlink = "<span class=\"msg\">"+hv+"</span>";
 		//if(rellink.localeCompare(textval) == 0) {
 		$(".msg").remove();
-		$("body").append(newlink);
+		// $("body").append(newlink);
+		$("#entry").append(newlink);
     });
 
     $("#encryptbutton").click(function(){
@@ -109,7 +115,52 @@ $(document).ready(function(){
         var newlink = "<span class=\"msg\">"+xv+"</span>";
 		//if(rellink.localeCompare(textval) == 0) {
 		$(".msg").remove();
-		$("body").append(newlink);
+		// $("body").append(newlink);
+		$("#entry").append(newlink);
+    });
+
+    $(".container").hide();
+    $("#c0").show();
+
+    $(".correct").click(function(){
+    	var idnum = $(this).parent().attr('id');
+    	var digit = parseInt(idnum.charCodeAt(1))-48;
+    	var next = "#c"+(digit+1);
+    	$(".msg").remove();
+    	$(next).show();
+    });
+
+    $(".incorrect").click(function(){
+    	var idnum = $(this).parent().attr('id');
+    	var digit = parseInt(idnum.charCodeAt(1))-48;
+    	// var err = "hid: ";
+    	for (var i=1;i<=5;i++) {
+    		$("#c"+i).hide();
+    		// err = err + " " + idnum;
+    	}
+    	// alert(err);
+    	$(".msg").remove();
+		var newlink = "<span class=\"msg\">Uh oh! You done ducked up!</span>";
+		$("#entry").append(newlink);
+    });
+
+    $("#ffbox").keyup(function(event){
+        if(event.keyCode == 13){
+            $("#ffbutton").click();
+        }
+    });
+
+    $("#ffbutton").click(function(){
+        var textval = $('#ffbox').val();
+        var correctmsg = "<p class=\"fcmsg\">Nice! Way to <strong>CRACK</strong> that one. Indeed, no breed above has that letter. </p>";
+        var wrongmsg = "<p class=\"fcmsg\">Uh oh! Try again...</p>";
+        if (hash(textval.toLowerCase()) == -1076032515) {
+			$(".fcmsg").remove();
+			$(".ffcenter").append(correctmsg);
+		} else {
+			$(".fcmsg").remove();
+			$(".ffcenter").append(wrongmsg);
+		}
     });
 
     $("#txt_name").focus();
