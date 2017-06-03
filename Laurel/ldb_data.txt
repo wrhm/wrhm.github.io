@@ -1,0 +1,485 @@
+
+1	Cat videos	1	1	https://www.youtube.com/watch?v=5dsGWM5XGdg
+	Cat videos	2	2	https://www.youtube.com/watch?v=tntOCGkgt98
+	Cat videos	3	3	https://www.youtube.com/watch?v=njSyHmcEdkw
+	Cat videos	4	4	https://www.youtube.com/watch?v=LWB0-tGwb_E
+	Cat videos	5	5	https://www.youtube.com/watch?v=QHscMam4W7s
+	Cat videos	6	6	https://www.youtube.com/watch?v=hY7m5jjJ9mM
+	Cat videos	7	7	https://www.youtube.com/watch?v=1Wh8RzcQZr4
+	Cat videos	8	8	https://www.youtube.com/watch?v=XyNlqQId-nk
+	Cat videos	9	9	https://www.youtube.com/watch?v=VJHnPUFffCU
+	Cat videos	10	10	https://www.youtube.com/watch?v=dGFSjKuJfrI
+	Cat videos	11	11	https://www.youtube.com/watch?v=cgE8VZFezFU
+	Cat videos	12	12	https://www.youtube.com/watch?v=cpOB5ErgeNI
+	Cat videos	13	13	https://www.youtube.com/watch?v=geqVuYmo8Y0
+	Cat videos	14	14	https://www.youtube.com/watch?v=ZGl8vrceu1E
+	Cat videos	15	15	https://www.youtube.com/watch?v=HxM46vRJMZs
+	Cat videos	16	16	https://www.youtube.com/watch?v=9Ine0LNFVUc
+	Cat videos	17	17	https://www.youtube.com/watch?v=O1KW3ZkLtuo
+	Cat videos	18	18	https://www.youtube.com/watch?v=G8KpPw303PY
+	Cat videos	19	19	https://www.youtube.com/watch?v=S4IHB3qK1KU
+	Cat videos	20	20	https://www.youtube.com/watch?v=79EvGkXHF9I
+	Cat videos	21	21	https://www.youtube.com/watch?v=OqQPv78AMw0
+	Cat videos	22	22	https://www.youtube.com/watch?v=htOroIbxiFY
+2	Cat pictures	1	1	https://www.flickr.com/photos/kvaidya/14934282524/
+	Cat pictures	2	2	https://www.flickr.com/photos/dorinser/13545844805/
+	Cat pictures	3	3	https://www.flickr.com/photos/cubagallery/5508784414/
+	Cat pictures	4	4	https://www.flickr.com/photos/cheishichiyo/14284324148/
+	Cat pictures	5	5	https://www.flickr.com/photos/dorinser/6828049582/
+	Cat pictures	6	6	https://www.flickr.com/photos/wings4me1/3474831728/
+	Cat pictures	7	7	https://www.flickr.com/photos/parismadrid/3977203168/
+	Cat pictures	8	8	https://www.flickr.com/photos/dorinser/5881933297/
+	Cat pictures	9	9	https://www.flickr.com/photos/layzeboy/14818650368/
+	Cat pictures	10	10	https://www.flickr.com/photos/cat-box/6581178955/
+	Cat pictures	11	11	https://www.flickr.com/photos/84935187@N04/16393044637/
+	Cat pictures	12	12	https://www.flickr.com/photos/cheishichiyo/8594699278/
+	Cat pictures	13	13	https://www.flickr.com/photos/parismadrid/8168159947/
+	Cat pictures	14	14	https://www.flickr.com/photos/42882723@N03/7190755946/
+	Cat pictures	15	15	https://www.flickr.com/photos/cubagallery/6330704947/
+	Cat pictures	16	16	https://www.flickr.com/photos/ziggyimages/5513402618/
+	Cat pictures	17	17	https://www.flickr.com/photos/parismadrid/8216315457/
+	Cat pictures	18	18	https://www.flickr.com/photos/layzeboy/14818650868/
+	Cat pictures	19	19	https://www.flickr.com/photos/115527438@N08/13244364473/
+	Cat pictures	20	20	https://www.flickr.com/photos/vamp8888/175237265/
+	Cat pictures	21	21	https://www.flickr.com/photos/parismadrid/4051998735/
+	Cat pictures	22	22	https://www.flickr.com/photos/54844390@N05/5110231975/
+3	Pairs of (designer) crocs	1	1	https://www.shoes.com/pi/crocs/jb/crocs643714_107463_jb.jpg
+	Pairs of (designer) crocs	2	2	https://s-media-cache-ak0.pinimg.com/236x/d2/63/1c/d2631c5a9c1c11725fbfc781f20669f8.jpg
+	Pairs of (designer) crocs	3	3	http://www.veexe.com/wp-content/uploads/2013/12/06/1/230-Crocs-11977-Springi-Flat-For-Women-1.jpg
+	Pairs of (designer) crocs	4	4	https://ae01.alicdn.com/kf/HTB1KDi3QXXXXXbnaXXXq6xXFXXXD/Flip-Flops-Men-Sandals-Summer-font-b-croc-b-font-slippers-Shoes-For-Casual-Walking-Seaside.jpg
+	Pairs of (designer) crocs	5	5	https://ae01.alicdn.com/kf/HTB1d5dAQXXXXXXvaXXXq6xXFXXXl/Summer-Lace-Up-Hollow-Jelly-Beach-Sandals-font-b-Croc-b-font-font-b-Designer-b.jpg
+	Pairs of (designer) crocs	6	6	https://ae01.alicdn.com/kf/HTB1cENiQXXXXXcGXVXXq6xXFXXXG/New-font-b-Design-b-font-Unisex-Mesh-Breathable-Sandals-2017-Summer-Flat-Heel-Casual-Sandals.jpg
+	Pairs of (designer) crocs	7	7	https://ae01.alicdn.com/kf/HTB1putwQVXXXXXvapXXq6xXFXXX5/2017-summer-font-b-crocs-b-font-women-jelly-shoes-transparent-flower-sandals-comfortable-ventilation-shoes.jpg
+	Pairs of (designer) crocs	8	8	https://ae01.alicdn.com/kf/HTB1bu_xPFXXXXXKXpXXq6xXFXXXa/Hot-Fashion-New-font-b-Design-b-font-Unisex-Mesh-Breathable-Sandals-2017-Summer-Flat-Heel.jpg
+	Pairs of (designer) crocs	9	9	http://malaabes.com/image/cache/data/Products/Crocs/Crocs-off-road-khaki-600x600.png
+	Pairs of (designer) crocs	10	10	https://static01.nyt.com/images/2009/08/18/style/18iht-fshoes.inline1.500.jpg
+	Pairs of (designer) crocs	11	11	http://www.fashionssneakers.com/wp-content/uploads/2014/03/22/4/1120-crocs-11039-Vezzy-Sandal-For-Women-1.jpg
+	Pairs of (designer) crocs	12	12	http://s17.photobucket.com/user/cute_cupid/media/crocs/cypruslavendersize6.jpg.html
+	Pairs of (designer) crocs	13	13	http://www.yankodesign.com/images/design_news/2007/12/13/lofu_shoe.jpg
+	Pairs of (designer) crocs	14	14	https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F81unfaW0PqL._UX395_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2Fcrocs-Unisex-Crocband-Penguins-Clog%2Fdp%2FB01A6L91PW&docid=SlieI_5e0wj4LM&tbnid=0SIjGbr-sUv4jM%3A&vet=10ahUKEwiM8rbWm6DUAhWG0YMKHWJ5AIwQMwjOASg8MDw..i&w=395&h=193&bih=803&biw=718&q=designer%20crocs&ved=0ahUKEwiM8rbWm6DUAhWG0YMKHWJ5AIwQMwjOASg8MDw&iact=mrc&uact=8
+	Pairs of (designer) crocs	15	15	https://images-na.ssl-images-amazon.com/images/I/81unfaW0PqL._UX395_.jpg
+	Pairs of (designer) crocs	16	16	http://i2.cdn.cnn.com/cnnnext/dam/assets/120315080133-crocs-new-design-horizontal-large-gallery.jpg
+	Pairs of (designer) crocs	17	17	http://trendymods.com/wp-content/uploads/2014/04/beautiful-women-wear-shoes-by-Crocs.jpg
+	Pairs of (designer) crocs	18	18	http://ecx.images-amazon.com/images/I/41PVOGr-vRL.jpg
+	Pairs of (designer) crocs	19	19	https://images-na.ssl-images-amazon.com/images/I/71Y2CYUFfGL._UL1500_.jpg
+	Pairs of (designer) crocs	20	20	http://trendymods.com/wp-content/uploads/2014/04/beach-line-boat-shoes-by-Crocs.jpg
+	Pairs of (designer) crocs	21	21	https://ae01.alicdn.com/kf/HTB1QDaSQXXXXXXoXXXXq6xXFXXXI/Outdoor-Garden-Soft-Massage-Flip-Flops-Slippers-Brand-font-b-Designer-b-font-Flats-Men-Casual.jpg
+	Pairs of (designer) crocs	22	22	https://s-media-cache-ak0.pinimg.com/736x/43/4b/48/434b4825dcbb22bc971cadf4604a88c6.jpg
+4	Places with the name Laurel in them	1	Laurel Properties Inc.	javascript:;
+	Places with the name Laurel in them	2	Laurel Gardens Tire Service, Inc	javascript:;
+	Places with the name Laurel in them	3	Laurel Foundation	javascript:;
+	Places with the name Laurel in them	4	Laurel Real Estate Services LLC	javascript:;
+	Places with the name Laurel in them	5	Laurel Mountain Partners	javascript:;
+	Places with the name Laurel in them	6	Boy Scouts of America - Laurel Highlands Council	javascript:;
+	Places with the name Laurel in them	7	Laurel Foodsystems	javascript:;
+	Places with the name Laurel in them	8	Laurel Linen Service	javascript:;
+	Places with the name Laurel in them	9	Laurel Canyon Coffee Company	javascript:;
+	Places with the name Laurel in them	10	Laurel Financial Group Inc	javascript:;
+	Places with the name Laurel in them	11	Laurel Mountain Energy, LLC	javascript:;
+	Places with the name Laurel in them	12	Laurel Highlands Visitors Bureau	javascript:;
+	Places with the name Laurel in them	13	Laurel Caverns Geological Park	javascript:;
+	Places with the name Laurel in them	14	Laurel County, Kentucky	javascript:;
+	Places with the name Laurel in them	15	Laurel, Indiana	javascript:;
+	Places with the name Laurel in them	16	The Laurel Gallery	javascript:;
+	Places with the name Laurel in them	17	Laurel Bank Tea Room	javascript:;
+	Places with the name Laurel in them	18	Laurelbank Guest House	javascript:;
+	Places with the name Laurel in them	19	Laurel Homes	javascript:;
+	Places with the name Laurel in them	20	Laurel Counselling	javascript:;
+	Places with the name Laurel in them	21	Laurel Mini Market	javascript:;
+	Places with the name Laurel in them	22	Laurel Cottage	javascript:;
+5	Saxophones	1	1	https://www.youtube.com/watch?v=k3_tw44QsZQ
+	Saxophones	2	2	https://www.youtube.com/watch?v=2sBE38MzY7Q
+	Saxophones	3	3	https://www.youtube.com/watch?v=v-IluLd2BjI
+	Saxophones	4	4	https://www.youtube.com/watch?v=irLnQWQGPQQ
+	Saxophones	5	5	https://www.youtube.com/watch?v=p-b6I1ihh2s
+	Saxophones	6	6	https://www.youtube.com/watch?v=EN9BBYIp0OM
+	Saxophones	7	7	https://www.youtube.com/watch?v=bNQ9q1dUxUU
+	Saxophones	8	8	https://www.youtube.com/watch?v=1Cs5k18maNE
+	Saxophones	9	9	https://www.youtube.com/watch?v=eOVMD6fjDCo
+	Saxophones	10	10	https://www.youtube.com/watch?v=6vqKJK-F5pk
+	Saxophones	11	11	https://www.youtube.com/watch?v=aKRtUL-klhc
+	Saxophones	12	12	https://www.youtube.com/watch?v=h5-oDldE2fQ
+	Saxophones	13	13	http://cdn.pitchfork.com/longform/350/Selmer_hero.jpg
+	Saxophones	14	14	https://emojipedia-us.s3.amazonaws.com/social/saxophone.png
+	Saxophones	15	15	https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/08/01/636056672575330700-1770876059_maxresdefault.jpg
+	Saxophones	16	16	https://www.amromusic.com/assets/1942/saxophone-fingering.jpg
+	Saxophones	17	17	http://www.childrensmusicworkshop.com/wp-content/uploads/2014/11/saxtrans.png
+	Saxophones	18	18	https://cdn.pixabay.com/photo/2016/06/22/16/37/saxophone-1473373_960_720.png
+	Saxophones	19	19	http://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2014/04/Tenorsax.jpg
+	Saxophones	20	20	http://www.conn-selmer.com/files/6314/8640/4491/saxophone.png
+	Saxophones	21	21	http://media.wwbw.com/is/image/MMGS7/JBS1000-Deluxe-Baritone-Saxophone/460255000000000-00-500x500.jpg
+	Saxophones	22	22	http://media.wwbw.com/is/image/MMGS7/BTS-300-Tenor-Saxophone-Outfit-Lacquer/463682000420000-00-500x500.jpg
+6	Drums	1	1	https://www.youtube.com/watch?v=zUwpu314YDU
+	Drums	2	2	https://www.youtube.com/watch?v=zwSqwPSMi7E
+	Drums	3	3	https://www.youtube.com/watch?v=Jj-pSzqb-Xk
+	Drums	4	4	https://www.youtube.com/watch?v=HKjJbjz7vbs
+	Drums	5	5	https://www.youtube.com/watch?v=Li5ZenSxAVo
+	Drums	6	6	https://www.youtube.com/watch?v=CoF8VVqC9-A
+	Drums	7	7	https://www.youtube.com/watch?v=FqJdzYY_Fas
+	Drums	8	8	https://www.youtube.com/watch?v=htKHOngelo4
+	Drums	9	9	https://www.youtube.com/watch?v=CYNnqKA1AKo
+	Drums	10	10	https://www.youtube.com/watch?v=3MHn1nkygUI
+	Drums	11	11	https://www.youtube.com/watch?v=6iuD3pSgBcw
+	Drums	12	12	https://www.youtube.com/watch?v=NGWJf1X35sY
+	Drums	13	13	https://www.youtube.com/watch?v=ztLEiNpE5PQ
+	Drums	14	14	https://www.flickr.com/photos/bballandephotographe/11962217225/
+	Drums	15	15	https://www.flickr.com/photos/arnichka/16473040081/
+	Drums	16	16	https://www.flickr.com/photos/66991312@N08/14862087843/
+	Drums	17	17	https://www.flickr.com/photos/59433380@N07/5506747843/
+	Drums	18	18	https://www.flickr.com/photos/jkmcclelland/6970792148/
+	Drums	19	19	https://www.flickr.com/photos/anpan5150/3903562375/
+	Drums	20	20	https://www.flickr.com/photos/32566493@N07/3131861862/
+	Drums	21	21	https://www.flickr.com/photos/cbinsa/4357770056/
+	Drums	22	22	https://www.flickr.com/photos/birbilation/5071245410/
+7	Snarky Puppy	1	1	https://www.youtube.com/watch?v=L_XJ_s5IsQc
+	Snarky Puppy	2	2	https://www.youtube.com/watch?v=kk0WRHV_vt8
+	Snarky Puppy	3	3	https://www.youtube.com/watch?v=fuhHU_BZXSk
+	Snarky Puppy	4	4	https://www.youtube.com/watch?v=IE9I6NrE2S0
+	Snarky Puppy	5	5	https://www.youtube.com/watch?v=0SJIgTLe0hc
+	Snarky Puppy	6	6	https://www.youtube.com/watch?v=IzZXBCRBIQ8
+	Snarky Puppy	7	7	https://www.youtube.com/watch?v=jLRw-Ahq22k
+	Snarky Puppy	8	8	https://www.youtube.com/watch?v=6Xtu6hBkSXw
+	Snarky Puppy	9	9	https://www.youtube.com/watch?v=y0bcTSDFScg
+	Snarky Puppy	10	10	https://www.youtube.com/watch?v=lh0suC6pehc
+	Snarky Puppy	11	11	https://www.youtube.com/watch?v=4XEV3phd0Eg
+	Snarky Puppy	12	12	https://www.youtube.com/watch?v=eqY3FaZmh-Y
+	Snarky Puppy	13	13	https://www.youtube.com/watch?v=7gu8q_fJeVU
+	Snarky Puppy	14	14	https://www.youtube.com/watch?v=_UDYwWqBnd8
+	Snarky Puppy	15	15	https://www.youtube.com/watch?v=pTOtt4TUCyE
+	Snarky Puppy	16	16	http://snarkypuppy.com/media/carousel1.jpg
+	Snarky Puppy	17	17	https://ums.org/wp-content/uploads/2016/03/Snarky-Puppy-4-1494x1080.jpg
+	Snarky Puppy	18	18	https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Snarky_Puppy_Vogue_Theatre_2016.jpg/1200px-Snarky_Puppy_Vogue_Theatre_2016.jpg
+	Snarky Puppy	19	19	https://i.ytimg.com/vi/bTx7lNr9uBw/maxresdefault.jpg
+	Snarky Puppy	20	20	http://www.cincinnatimagazine.com/wp-content/uploads/sites/20/2016/04/CM_MAY16_FL_Dispatch_SnarkyBlue-e1461857020235.jpg
+	Snarky Puppy	21	21	http://cdn.shopify.com/s/files/1/0946/3300/products/poster_1e62d714-a9ea-46fa-9e03-1f4235f40747_1024x1024.png?v=1459190598
+	Snarky Puppy	22	22	http://www.jeffcenter.org/sites/default/files/page-images/130308_Snarky.Puppy_0026.jpg
+8	Postmodern Jukebox	1	1	https://www.youtube.com/watch?v=UviVYc9qzy4
+	Postmodern Jukebox	2	2	https://www.youtube.com/watch?v=sw0jK1gGngg
+	Postmodern Jukebox	3	3	https://www.youtube.com/watch?v=s60lYl_TeNo
+	Postmodern Jukebox	4	4	https://www.youtube.com/watch?v=m3lF2qEA2cw
+	Postmodern Jukebox	5	5	https://www.youtube.com/watch?v=6ZoyCSffM7I
+	Postmodern Jukebox	6	6	https://www.youtube.com/watch?v=w-fgoDdZBcA
+	Postmodern Jukebox	7	7	https://www.youtube.com/watch?v=aLnZ1NQm2uk
+	Postmodern Jukebox	8	8	https://www.youtube.com/watch?v=KSSa0-oAnIo
+	Postmodern Jukebox	9	9	https://www.youtube.com/watch?v=iOY_Oqbq7Vc
+	Postmodern Jukebox	10	10	https://www.youtube.com/watch?v=plIZho8Nd2g
+	Postmodern Jukebox	11	11	https://www.youtube.com/watch?v=pXYWDtXbBB0
+	Postmodern Jukebox	12	12	https://www.youtube.com/watch?v=RSymHxe9g1M
+	Postmodern Jukebox	13	13	https://www.youtube.com/watch?v=Yq4KA0mUnC8
+	Postmodern Jukebox	14	14	https://www.youtube.com/watch?v=Z4zHMtJv9W8
+	Postmodern Jukebox	15	15	https://www.youtube.com/watch?v=9C0xGB73Uuc
+	Postmodern Jukebox	16	16	https://www.youtube.com/watch?v=Anx5IctHVGU
+	Postmodern Jukebox	17	17	https://www.youtube.com/watch?v=e4JKo8VCbW4
+	Postmodern Jukebox	18	18	https://www.youtube.com/watch?v=ZD3thRb6uOg
+	Postmodern Jukebox	19	19	https://www.youtube.com/watch?v=UviVYc9qzy4
+	Postmodern Jukebox	20	20	https://www.youtube.com/watch?v=Ye-taJZmStE
+	Postmodern Jukebox	21	21	https://www.youtube.com/watch?v=o9yMXzARTZE
+	Postmodern Jukebox	22	22	https://www.youtube.com/watch?v=0hi1jVceof8
+9	Pentatonix	1	1	https://www.youtube.com/watch?v=ojRj2JK5oCI
+	Pentatonix	2	2	https://www.youtube.com/watch?v=LRP8d7hhpoQ
+	Pentatonix	3	3	https://www.youtube.com/watch?v=NLiWFUDJ95I
+	Pentatonix	4	4	https://www.youtube.com/watch?v=3MteSlpxCpo
+	Pentatonix	5	5	https://www.youtube.com/watch?v=qxY9qkfZMI8
+	Pentatonix	6	6	https://www.youtube.com/watch?v=YSkHIv7GhOM
+	Pentatonix	7	7	https://www.youtube.com/watch?v=P95_pCbCPZw
+	Pentatonix	8	8	https://www.youtube.com/watch?v=lExW80sXsHs
+	Pentatonix	9	9	https://www.youtube.com/watch?v=o10drRI3VQ0
+	Pentatonix	10	10	https://www.youtube.com/watch?v=0dYlvdLdK9w
+	Pentatonix	11	11	https://www.youtube.com/watch?v=W9LJDwZOprY
+	Pentatonix	12	12	https://www.youtube.com/watch?v=WSUFzC6_fp8
+	Pentatonix	13	13	https://www.youtube.com/watch?v=E9XQ2MdNgKY
+	Pentatonix	14	14	https://www.youtube.com/watch?v=OglS3Q0Zxik
+	Pentatonix	15	15	https://www.youtube.com/watch?v=F80FsZDTgn0
+	Pentatonix	16	16	https://www.youtube.com/watch?v=mW0T0F7VquA
+	Pentatonix	17	17	https://www.youtube.com/watch?v=Yc7-krRX8uA
+	Pentatonix	18	18	https://www.youtube.com/watch?v=OPWPa-HMpj8
+	Pentatonix	19	19	https://www.youtube.com/watch?v=5rCQJmVaQpg
+	Pentatonix	20	20	https://www.youtube.com/watch?v=aE2GCa-_nyU
+	Pentatonix	21	21	https://www.youtube.com/watch?v=hOKuAigsrec
+	Pentatonix	22	22	https://www.youtube.com/watch?v=u6C2N2t4NXE
+10	Chicken recipes	1	1	http://www.countryliving.com/food-drinks/g680/chicken-recipes-0109/?
+	Chicken recipes	2	2	http://dish.allrecipes.com/how-to-buy-cook-serve-chicken-wings/?internalSource=streams&referringId=201&referringContentType=recipe%20hub&clickId=st_trending_b
+	Chicken recipes	3	3	http://allrecipes.com/recipe/64513/rosemary-ranch-chicken-kabobs/?internalSource=streams&referringId=201&referringContentType=recipe%20hub&clickId=st_trending_s
+	Chicken recipes	4	4	http://allrecipes.com/recipe/54202/greek-style-garlic-chicken-breast/?internalSource=streams&referringId=201&referringContentType=recipe%20hub&clickId=st_trending_s
+	Chicken recipes	5	5	http://allrecipes.com/recipe/104704/lime-tarragon-grilled-chicken/?internalSource=streams&referringId=201&referringContentType=recipe%20hub&clickId=st_recipes_mades
+	Chicken recipes	6	6	http://allrecipes.com/video/4844/lime-chicken-soft-tacos/?internalSource=streams&referringId=201&referringContentType=recipe%20hub&clickId=st_trending_s
+	Chicken recipes	7	7	http://allrecipes.com/recipe/214488/lemon-chicken-piccata/?internalSource=streams&referringId=201&referringContentType=recipe%20hub&clickId=st_recipes_mades
+	Chicken recipes	8	8	http://allrecipes.com/recipe/219164/the-best-parmesan-chicken-bake/?internalSource=streams&referringId=201&referringContentType=recipe%20hub&clickId=st_recipes_mades
+	Chicken recipes	9	9	http://allrecipes.com/recipe/237928/chef-johns-chicken-marsala/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%202
+	Chicken recipes	10	10	http://allrecipes.com/recipe/16707/chicken-breasts-pierre/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%203
+	Chicken recipes	11	11	http://allrecipes.com/recipe/52005/tender-italian-baked-chicken/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%205
+	Chicken recipes	12	12	http://allrecipes.com/recipe/241813/slow-cooker-belgian-chicken-booyah/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%204
+	Chicken recipes	13	13	http://allrecipes.com/recipe/57428/chicken-piccata-with-artichoke-hearts/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%209
+	Chicken recipes	14	14	http://allrecipes.com/recipe/34116/roast-chicken-with-thyme-and-onions/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%206
+	Chicken recipes	15	15	http://allrecipes.com/recipe/232326/healthy-mexican-chicken-bake/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%207
+	Chicken recipes	16	16	http://allrecipes.com/recipe/216758/moms-fabulous-chicken-pot-pie-with-biscuit-crust/?internalSource=staff%20pick&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%208
+	Chicken recipes	17	17	http://allrecipes.com/recipe/26317/chicken-pot-pie-ix/?internalSource=hub%20recipe&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%2012
+	Chicken recipes	18	18	http://allrecipes.com/video/2790/pesto-pasta-with-chicken/?internalSource=videocard&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%2011
+	Chicken recipes	19	19	http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/?internalSource=hub%20recipe&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%2014
+	Chicken recipes	20	20	http://allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/?internalSource=hub%20recipe&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%2013
+	Chicken recipes	21	21	http://allrecipes.com/video/352/how-to-make-chicken-parmesan/?internalSource=videocard&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%2017
+	Chicken recipes	22	22	http://allrecipes.com/recipe/9023/baked-teriyaki-chicken/?internalSource=hub%20recipe&referringId=201&referringContentType=recipe%20hub&clickId=cardslot%2015
+11	College orientation photos that pale to CMU's	1	1	https://www.flickr.com/photos/icfuse/7415132410/in/photolist-cifuww-9WfpKV-cifySb-GKuM5-dYq7a3-dYq7c1-dYq783-9UkgnK-cifwVq-a41jom-8nfo82-dYq7bL-dYjpUK-agyEyX-a41jm7-dYjpVT-cifxmN-dYq78h-dYjpUH-fo6Gkk-fo6Grv-aijM3P-dYq79Y-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv
+	College orientation photos that pale to CMU's	2	2	https://www.flickr.com/photos/icfuse/7415147006/in/photolist-cifySb-GKuM5-dYq7a3-dYq7c1-dYq783-9UkgnK-cifwVq-a41jom-8nfo82-dYq7bL-dYjpUK-agyEyX-a41jm7-dYjpVT-cifxmN-dYq78h-dYjpUH-fo6Gkk-fo6Grv-aijM3P-dYq79Y-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw
+	College orientation photos that pale to CMU's	3	3	https://www.flickr.com/photos/uhhonors/5941222248/in/photolist-a41jom-8nfo82-dYq7bL-dYjpUK-agyEyX-a41jm7-dYjpVT-cifxmN-dYq78h-dYjpUH-fo6Gkk-fo6Grv-aijM3P-dYq79Y-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z
+	College orientation photos that pale to CMU's	4	4	https://www.flickr.com/photos/davisgavitt/4834949775/in/photolist-8nfo82-dYq7bL-dYjpUK-agyEyX-a41jm7-dYjpVT-cifxmN-dYq78h-dYjpUH-fo6Gkk-fo6Grv-aijM3P-dYq79Y-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM
+	College orientation photos that pale to CMU's	5	5	https://www.flickr.com/photos/beee33/6083331679/in/photolist-agyEyX-a41jm7-dYjpVT-cifxmN-dYq78h-dYjpUH-fo6Gkk-fo6Grv-aijM3P-dYq79Y-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM-orHwKE-aqVceN-aizszS
+	College orientation photos that pale to CMU's	6	6	https://www.flickr.com/photos/psc_melbourne/8513597439/in/photolist-dYjpUK-agyEyX-a41jm7-dYjpVT-cifxmN-dYq78h-dYjpUH-fo6Gkk-fo6Grv-aijM3P-dYq79Y-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM-orHwKE-aqVceN
+	College orientation photos that pale to CMU's	7	7	https://www.flickr.com/photos/psc_melbourne/8514708384/in/photolist-dYq79Y-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM-orHwKE-aqVceN-aizszS-orHRou-oGbqx7-aiwEBP-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9
+	College orientation photos that pale to CMU's	8	8	https://www.flickr.com/photos/psc_melbourne/8514708580/in/photolist-dYq7dm-orHRnY-fokXTQ-gUduY-fo6Gpv-fo6Gmp-fo6GrB-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM-orHwKE-aqVceN-aizszS-orHRou-oGbqx7-aiwEBP-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9-fokXKb
+	College orientation photos that pale to CMU's	9	9	https://www.flickr.com/photos/aurorauniversity/5843620578/in/photolist-9Uo5NW-a41jnd-fo6Gkt-fqsBc6-fqsBez-fokXVE-fo6GjZ-orJ2Y6-fo6Gfp-fo6GfR-dYq78o-fokXH9-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM-orHwKE-aqVceN-aizszS-orHRou-oGbqx7-aiwEBP-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9-fokXKb-gUdux-gUdpS-aikuUW-8nreVi-aizti5-gUdz2-8qWee7
+	College orientation photos that pale to CMU's	10	10	https://www.flickr.com/photos/uhhonors/5940662735/in/photolist-a3Xs4z-fokXR7-fo6Gn6-fo6Ght-fo6GmV-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM-orHwKE-aqVceN-aizszS-orHRou-oGbqx7-aiwEBP-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9-fokXKb-gUdux-gUdpS-aikuUW-8nreVi-aizti5-gUdz2-8qWee7-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW
+	College orientation photos that pale to CMU's	11	11	https://www.flickr.com/photos/mdcollege/9465781983/in/photolist-fqsBcD-dYjpQX-orJ2Qv-fokXQS-fqGRKw-a3Xs9r-fo6GqP-oJbpju-v3kyu-fo6GfB-oJbprU-fqsB9Z-fqsBdM-orHwKE-aqVceN-aizszS-orHRou-oGbqx7-aiwEBP-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9-fokXKb-gUdux-gUdpS-aikuUW-8nreVi-aizti5-gUdz2-8qWee7-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq
+	College orientation photos that pale to CMU's	12	12	https://www.flickr.com/photos/mdcollege/9465781829/in/photolist-fqsB9Z-fqsBdM-orHwKE-aqVceN-aizszS-orHRou-oGbqx7-aiwEBP-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9-fokXKb-gUdux-gUdpS-aikuUW-8nreVi-aizti5-gUdz2-8qWee7-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k
+	College orientation photos that pale to CMU's	13	13	https://www.flickr.com/photos/hampshirecollege/6105574613/in/photolist-aiwEBP-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9-fokXKb-gUdux-gUdpS-aikuUW-8nreVi-aizti5-gUdz2-8qWee7-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM
+	College orientation photos that pale to CMU's	14	14	https://www.flickr.com/photos/thelasalleshow/9439068833/in/photolist-fo6Gj6-fqGRHm-orHwSo-fqGRKL-fo6GqD-oJbpz9-fokXKb-gUdux-gUdpS-aikuUW-8nreVi-aizti5-gUdz2-8qWee7-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K
+	College orientation photos that pale to CMU's	15	15	https://www.flickr.com/photos/hampshirecollege/6103395734/in/photolist-aikuUW-8nreVi-aizti5-gUdz2-8qWee7-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm
+	College orientation photos that pale to CMU's	16	16	https://www.flickr.com/photos/hampshirecollege/6106121858/in/photolist-aizti5-gUdz2-8qWee7-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm-9Uo5Mf-aiwFfZ
+	College orientation photos that pale to CMU's	17	17	https://www.flickr.com/photos/hampshirecollege/6103802890/in/photolist-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm-9Uo5Mf-aiwFfZ-gUdx9-8nreQB-aqSxWP-6EHbJF
+	College orientation photos that pale to CMU's	18	18	https://www.flickr.com/photos/pikevillecollege/4837068011/in/photolist-8nreNk-ainzWS-aqSxZZ-8qT6Sc-9Uo4kL-aqVcz5-9UkhFg-aqSwy2-9UkhBV-gUdoj-gUdgr-gUdoW-9Ukgcr-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm-9Uo5Mf-aiwFfZ-gUdx9-8nreQB-aqSxWP
+	College orientation photos that pale to CMU's	19	19	https://www.flickr.com/photos/aurorauniversity/5843070309/in/photolist-9Ukgex-8qWehb-aikvWQ-6EMpdq-8nunJh-aqSxMX-8nunLW-eWaKsQ-8qT6Vi-gUdvo-gUdxD-9Ukggn-9UkhGK-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm-9Uo5Mf-aiwFfZ-gUdx9-8nreQB-aqSxWP-6EHbJF-9xmVMK-9Uo4gG-aqSwo4-6Xbqsm-9Uo4iu-aqSx6c-8nunFj-gUdma-9xmVEe-6EMmXQ-aihH9F-9UkhRp
+	College orientation photos that pale to CMU's	20	20	https://www.flickr.com/photos/aurorauniversity/5843620380/in/photolist-9Uo5Kw-aiwF1k-aqVdx9-aqVc9L-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm-9Uo5Mf-aiwFfZ-gUdx9-8nreQB-aqSxWP-6EHbJF-9xmVMK-9Uo4gG-aqSwo4-6Xbqsm-9Uo4iu-aqSx6c-8nunFj-gUdma-9xmVEe-6EMmXQ-aihH9F-9UkhRp-9Uo4pQ-aiwEwn-8zQye7-aizt1Q-aqVdAh-aizs5h-mBs82-aqSwFM-aihHk4-9xmVfa-cmwzTU-gUdjM-gUdqo
+	College orientation photos that pale to CMU's	21	21	https://www.flickr.com/photos/hampshirecollege/6103396576/in/photolist-aikvas-2Vh9Ju-gUdrt-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm-9Uo5Mf-aiwFfZ-gUdx9-8nreQB-aqSxWP-6EHbJF-9xmVMK-9Uo4gG-aqSwo4-6Xbqsm-9Uo4iu-aqSx6c-8nunFj-gUdma-9xmVEe-6EMmXQ-aihH9F-9UkhRp-9Uo4pQ-aiwEwn-8zQye7-aizt1Q-aqVdAh-aizs5h-mBs82-aqSwFM-aihHk4-9xmVfa-cmwzTU-gUdjM-gUdqo-aihHsM-aihHDT-aqSwXB-aqSxoZ
+	College orientation photos that pale to CMU's	22	22	https://www.flickr.com/photos/aurorauniversity/5843070883/in/photolist-9Ukgpr-gUdkM-2FpH3K-9UkhDD-9Uo5HW-8qWe9f-gUdij-8qWebu-gUdyK-8qWeaj-aikvCm-gUdwm-9Uo5Mf-aiwFfZ-gUdx9-8nreQB-aqSxWP-6EHbJF-9xmVMK-9Uo4gG-aqSwo4-6Xbqsm-9Uo4iu-aqSx6c-8nunFj-gUdma-9xmVEe-6EMmXQ-aihH9F-9UkhRp-9Uo4pQ-aiwEwn-8zQye7-aizt1Q-aqVdAh-aizs5h-mBs82-aqSwFM-aihHk4-9xmVfa-cmwzTU-gUdjM-gUdqo-aihHsM-aihHDT-aqSwXB-aqSxoZ-9QzLvX-aiwETk-aiwEb4
+12	Bizarre Pennsylvania town names	1	Armagh	javascript:;
+	Bizarre Pennsylvania town names	2	Big Beaver	javascript:;
+	Bizarre Pennsylvania town names	3	Blue Ball	javascript:;
+	Bizarre Pennsylvania town names	4	Daisytown	javascript:;
+	Bizarre Pennsylvania town names	5	Driftwood	javascript:;
+	Bizarre Pennsylvania town names	6	Economy	javascript:;
+	Bizarre Pennsylvania town names	7	Friendsville	javascript:;
+	Bizarre Pennsylvania town names	8	Intercourse	javascript:;
+	Bizarre Pennsylvania town names	9	Jersey Shore	javascript:;
+	Bizarre Pennsylvania town names	10	Mars	javascript:;
+	Bizarre Pennsylvania town names	11	Moosic	javascript:;
+	Bizarre Pennsylvania town names	12	North East	javascript:;
+	Bizarre Pennsylvania town names	13	Paint	javascript:;
+	Bizarre Pennsylvania town names	14	Pringle	javascript:;
+	Bizarre Pennsylvania town names	15	Scalp Level	javascript:;
+	Bizarre Pennsylvania town names	16	Throop	javascript:;
+	Bizarre Pennsylvania town names	17	Bath Addition	javascript:;
+	Bizarre Pennsylvania town names	18	Braintrim	javascript:;
+	Bizarre Pennsylvania town names	19	Breakneck	javascript:;
+	Bizarre Pennsylvania town names	20	Brokenstraw	javascript:;
+	Bizarre Pennsylvania town names	21	Bumpville	javascript:;
+	Bizarre Pennsylvania town names	22	Climax	javascript:;
+13	Buzzfeed listicles (you won't believe #7!)	1	1	https://www.buzzfeed.com/kevinsmith/21-things-everyone-especially-guys-should-know-by-the-time?utm_term=.hdVjj642Z#.fhyRRydWb
+	Buzzfeed listicles (you won't believe #7!)	2	2	https://www.buzzfeed.com/anamariaglavan/pieces-of-furniture-so-gorgeous-they-should-get-an-agent?utm_term=.kwdBBOZjD#.mn5NN63bj
+	Buzzfeed listicles (you won't believe #7!)	3	3	https://www.buzzfeed.com/elizabethlilly/spend-less-money-june-2017?utm_term=.gg2xxRVMg#.txjaaYOPm
+	Buzzfeed listicles (you won't believe #7!)	4	4	https://www.buzzfeed.com/maitlandquitmeyer/products-only-truly-lazy-people-will-appreciate?origin=shp&utm_term=.dtQqqKvnk#.cx5aaB7Dq
+	Buzzfeed listicles (you won't believe #7!)	5	5	https://www.buzzfeed.com/elenamgarcia/things-thatll-make-you-say-why-dont-i-own-that-already-5-22?origin=shp&utm_term=.pr7XXEjb2#.ws5AAv8nL
+	Buzzfeed listicles (you won't believe #7!)	6	6	https://www.buzzfeed.com/elizabethlilly/lap-of-luxury-in-your-backyard?utm_term=.bvV99pqBJ#.khzDDnZe6
+	Buzzfeed listicles (you won't believe #7!)	7	7	https://www.buzzfeed.com/mandycaruso/greatest-yes-the-fuck-she-did-movies-of-all-time?utm_term=.kk733wop5#.sta55qeVp
+	Buzzfeed listicles (you won't believe #7!)	8	8	https://www.buzzfeed.com/marietelling/30-delicious-things-to-cook-in-june?utm_term=.awaee3mgb#.noMVVlWZE
+	Buzzfeed listicles (you won't believe #7!)	9	9	https://www.buzzfeed.com/angelospagnolo/dogs-who-tried-they-really-tried?utm_term=.lspZZbGDA#.dv899ZReB
+	Buzzfeed listicles (you won't believe #7!)	10	10	https://www.buzzfeed.com/hannahloewentheil/summer-slow-cooker-recipes?utm_term=.ojNXXgB1d#.og7ddwg5Z
+	Buzzfeed listicles (you won't believe #7!)	11	11	https://www.buzzfeed.com/lincolnthompson/31-books-you-wont-be-able-to-stop-thinking-about?utm_term=.wyaggr43a#.pweMM3NXw
+	Buzzfeed listicles (you won't believe #7!)	12	12	https://www.buzzfeed.com/anthonyrivas/brown-bananas-give-you-cancer?utm_term=.xaAppO6jy#.ovEooLnR7
+	Buzzfeed listicles (you won't believe #7!)	13	13	https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-june-2?utm_term=.nn4aaA07V#.spdggb0LR
+	Buzzfeed listicles (you won't believe #7!)	14	14	https://www.buzzfeed.com/beckybarnicoat/words-that-had-completely-different-meaning-in-2007?utm_term=.xoOeexpQd#.lu1MM9Zw7
+	Buzzfeed listicles (you won't believe #7!)	15	15	https://www.buzzfeed.com/delaneystrunk/17-furniture-designs-guaranteed-to-make-you-feel-u?utm_term=.wqgzz9jdy#.np3AAb4Yx
+	Buzzfeed listicles (you won't believe #7!)	16	16	https://www.buzzfeed.com/mariahoxley/things-youll-only-find-funny-if-you-grew-up-on-lunchables?utm_term=.ec1WWGnvy#.tnYVVgzG2
+	Buzzfeed listicles (you won't believe #7!)	17	17	https://www.buzzfeed.com/jesseszewczyk/7-five-ingredient-dessert-recipes-to-tackle-this-weekend?utm_term=.eizppD91K#.rx522A0We
+	Buzzfeed listicles (you won't believe #7!)	18	18	https://www.buzzfeed.com/jamiejones/people-who-absolutely-cannot-be-trusted?utm_term=.rhVyyW4vG#.vyMRR5Vb3
+	Buzzfeed listicles (you won't believe #7!)	19	19	https://www.buzzfeed.com/danielacadena/times-fashion-trends-went-too-damn-far?utm_term=.ydxRRBJj2#.aaXrr50e1
+	Buzzfeed listicles (you won't believe #7!)	20	20	https://www.buzzfeed.com/jencourtc/15-celebrity-tweets-we-can-all-relate-to-30bmz?utm_term=.qe7665vE8#.ucvqqnDPL
+	Buzzfeed listicles (you won't believe #7!)	21	21	https://www.buzzfeed.com/elainawahl/beautiful-elephant-products-that-will-actually-help-save?utm_term=.yodnn1MVr#.pbjLLJDmq
+	Buzzfeed listicles (you won't believe #7!)	22	22	https://www.buzzfeed.com/samanthawieder/pieces-of-candy-that-are-almost-too-beautiful-to-eat?utm_term=.rkG00Elvb#.es4zzGXnY
+14	Reasons to become a cat lady	1	Cat hair in your food	javascript:;
+	Reasons to become a cat lady	2	Cat hair in your drinks	javascript:;
+	Reasons to become a cat lady	3	Cat hair on your furniture	javascript:;
+	Reasons to become a cat lady	4	Cat hair on your clothes	javascript:;
+	Reasons to become a cat lady	5	You get adept at cleaning many different kinds of messes	javascript:;
+	Reasons to become a cat lady	6	Cats are objectively better roommates than people	javascript:;
+	Reasons to become a cat lady	7	Laser pointers	javascript:;
+	Reasons to become a cat lady	8	Whiskers	javascript:;
+	Reasons to become a cat lady	9	Getting woken at 3am by claws on your face/stomach	javascript:;
+	Reasons to become a cat lady	10	Watching cats chase their own tails	javascript:;
+	Reasons to become a cat lady	11	Cats don't drool	javascript:;
+	Reasons to become a cat lady	12	Having a reputation that makes people think you're crazy and thus keeps people away	javascript:;
+	Reasons to become a cat lady	13	Purring	javascript:;
+	Reasons to become a cat lady	14	Getting to spoil your furry friends	javascript:;
+	Reasons to become a cat lady	15	Tuna. Lots of tuna	javascript:;
+	Reasons to become a cat lady	16	Free pest control	javascript:;
+	Reasons to become a cat lady	17	That feeling of sheer terror as a cat stares at you while pushing something fragile off the table/counter	javascript:;
+	Reasons to become a cat lady	18	Cats like chicken too	javascript:;
+	Reasons to become a cat lady	19	Making friends with vets and vet techs	javascript:;
+	Reasons to become a cat lady	20	Carrying litter builds muscle	javascript:;
+	Reasons to become a cat lady	21	You don't have to walk cats	javascript:;
+	Reasons to become a cat lady	22	Impromptu massages	javascript:;
+15	Things to do on a rainy day	1	YouTube for 7 hours straight	javascript:;
+	Things to do on a rainy day	2	Bake cookies	javascript:;
+	Things to do on a rainy day	3	Yoga	javascript:;
+	Things to do on a rainy day	4	Read a book	javascript:;
+	Things to do on a rainy day	5	Paint	javascript:;
+	Things to do on a rainy day	6	Play the sax	javascript:;
+	Things to do on a rainy day	7	Run around in the rain because what are colds	javascript:;
+	Things to do on a rainy day	8	Snuggle with cats	javascript:;
+	Things to do on a rainy day	9	Play cards (ideally Set)	javascript:;
+	Things to do on a rainy day	10	Catannnnn	javascript:;
+	Things to do on a rainy day	11	Squash emails	javascript:;
+	Things to do on a rainy day	12	Go out to see a movie	javascript:;
+	Things to do on a rainy day	13	Stay in and watch a movie (homemade popcorn is cheap!)	javascript:;
+	Things to do on a rainy day	14	Sleep all day (just not too often)	javascript:;
+	Things to do on a rainy day	15	Clean everything while jamming to music	javascript:;
+	Things to do on a rainy day	16	Go indoor rock climbing	javascript:;
+	Things to do on a rainy day	17	Make hot chocolate	javascript:;
+	Things to do on a rainy day	18	Plan your schedule through 2039	javascript:;
+	Things to do on a rainy day	19	Read/write poetry	javascript:;
+	Things to do on a rainy day	20	Draw something	javascript:;
+	Things to do on a rainy day	21	Build a blanket fort	javascript:;
+	Things to do on a rainy day	22	Make up a new recipe from stuff in the kitchen	javascript:;
+16	Pictures of baby animals that are kittens	1	1	https://www.flickr.com/photos/dorinser/15235542331/
+	Pictures of baby animals that are kittens	2	2	https://www.flickr.com/photos/lypino/15507757203/
+	Pictures of baby animals that are kittens	3	3	https://www.flickr.com/photos/annaadolfsson/4672092193/
+	Pictures of baby animals that are kittens	4	4	https://www.flickr.com/photos/indycoon/5262879347/
+	Pictures of baby animals that are kittens	5	5	https://www.flickr.com/photos/trango3/9058421767/
+	Pictures of baby animals that are kittens	6	6	https://www.flickr.com/photos/martinthorpe/6254709876/
+	Pictures of baby animals that are kittens	7	7	https://www.flickr.com/photos/dimitribiemond/16274930900/
+	Pictures of baby animals that are kittens	8	8	https://www.flickr.com/photos/cyyj/10220033295/
+	Pictures of baby animals that are kittens	9	9	https://www.flickr.com/photos/78182051@N08/8509294796/
+	Pictures of baby animals that are kittens	10	10	https://www.flickr.com/photos/69043684@N06/7669569658/
+	Pictures of baby animals that are kittens	11	11	https://www.flickr.com/photos/fallsvetclinic/4879134185/
+	Pictures of baby animals that are kittens	12	12	https://www.flickr.com/photos/woody1969/10622807985/
+	Pictures of baby animals that are kittens	13	13	https://www.flickr.com/photos/berrega/9558884028/
+	Pictures of baby animals that are kittens	14	14	https://www.flickr.com/photos/edgarsstrods/4152398107/
+	Pictures of baby animals that are kittens	15	15	https://www.flickr.com/photos/berrega/9558884028/
+	Pictures of baby animals that are kittens	16	16	https://www.flickr.com/photos/theriee/9614939766/
+	Pictures of baby animals that are kittens	17	17	https://www.flickr.com/photos/leafypages/6903277918/
+	Pictures of baby animals that are kittens	18	18	https://www.flickr.com/photos/78182051@N08/8508190009/
+	Pictures of baby animals that are kittens	19	19	https://www.flickr.com/photos/crystal_fury/2672319425/
+	Pictures of baby animals that are kittens	20	20	https://www.flickr.com/photos/29638108@N06/9158627549/
+	Pictures of baby animals that are kittens	21	21	https://www.flickr.com/photos/rjachnie/15905067924/
+	Pictures of baby animals that are kittens	22	22	https://www.flickr.com/photos/96206326@N06/8831268316/
+17	Pictures of baby animals that aren't kittens	1	1	https://www.flickr.com/photos/67663068@N07/8818688366/
+	Pictures of baby animals that aren't kittens	2	2	https://www.flickr.com/photos/67663068@N07/8808101383/
+	Pictures of baby animals that aren't kittens	3	3	https://www.flickr.com/photos/67663068@N07/8818691144/
+	Pictures of baby animals that aren't kittens	4	4	https://www.flickr.com/photos/67663068@N07/8818690688/
+	Pictures of baby animals that aren't kittens	5	5	https://www.flickr.com/photos/67663068@N07/8818690852/
+	Pictures of baby animals that aren't kittens	6	6	https://www.flickr.com/photos/67663068@N07/8818688902/
+	Pictures of baby animals that aren't kittens	7	7	https://www.flickr.com/photos/67663068@N07/8818689186/
+	Pictures of baby animals that aren't kittens	8	8	https://www.flickr.com/photos/67663068@N07/8808103019/
+	Pictures of baby animals that aren't kittens	9	9	https://www.flickr.com/photos/67663068@N07/8818688254/
+	Pictures of baby animals that aren't kittens	10	10	https://www.flickr.com/photos/mikestreicher/34538006780/
+	Pictures of baby animals that aren't kittens	11	11	https://www.flickr.com/photos/67663068@N07/8818689274/
+	Pictures of baby animals that aren't kittens	12	12	https://www.flickr.com/photos/67663068@N07/8808103557/
+	Pictures of baby animals that aren't kittens	13	13	https://www.flickr.com/photos/67663068@N07/8808103987/
+	Pictures of baby animals that aren't kittens	14	14	https://www.flickr.com/photos/67663068@N07/8808102899/
+	Pictures of baby animals that aren't kittens	15	15	https://www.flickr.com/photos/67663068@N07/8818689886/
+	Pictures of baby animals that aren't kittens	16	16	https://www.flickr.com/photos/67663068@N07/8808101079/
+	Pictures of baby animals that aren't kittens	17	17	https://www.flickr.com/photos/92459736@N08/8707654414/
+	Pictures of baby animals that aren't kittens	18	18	https://www.flickr.com/photos/sovs43/16270147460/
+	Pictures of baby animals that aren't kittens	19	19	https://www.flickr.com/photos/126093043@N03/14866549028/
+	Pictures of baby animals that aren't kittens	20	20	https://www.flickr.com/photos/23801723@N08/3647331226/
+	Pictures of baby animals that aren't kittens	21	21	https://www.flickr.com/photos/_ubas/4732392715/
+	Pictures of baby animals that aren't kittens	22	22	https://www.flickr.com/photos/jljr_001/6349242385/
+18	Songs to get stuck in your head	1	1	https://www.youtube.com/watch?v=E1mU6h4Xdxc
+	Songs to get stuck in your head	2	2	https://www.youtube.com/watch?v=t93u0qg5q_M
+	Songs to get stuck in your head	3	3	https://www.youtube.com/watch?v=EK_LN3XEcnw
+	Songs to get stuck in your head	4	4	https://www.youtube.com/watch?v=qrO4YZeyl0I
+	Songs to get stuck in your head	5	5	https://www.youtube.com/watch?v=pIgZ7gMze7A
+	Songs to get stuck in your head	6	6	https://www.youtube.com/watch?v=ZyhrYis509A
+	Songs to get stuck in your head	7	7	https://www.youtube.com/watch?v=X1Fqn9du7xo
+	Songs to get stuck in your head	8	8	https://www.youtube.com/watch?v=KQ6zr6kCPj8
+	Songs to get stuck in your head	9	9	https://www.youtube.com/watch?v=fWNaR-rxAic
+	Songs to get stuck in your head	10	10	https://www.youtube.com/watch?v=jofNR_WkoCE
+	Songs to get stuck in your head	11	11	https://www.youtube.com/watch?v=dQw4w9WgXcQ
+	Songs to get stuck in your head	12	12	https://www.youtube.com/watch?v=p47fEXGabaY
+	Songs to get stuck in your head	13	13	https://www.youtube.com/watch?v=68ugkg9RePc
+	Songs to get stuck in your head	14	14	https://www.youtube.com/watch?v=9bZkp7q19f0
+	Songs to get stuck in your head	15	15	https://www.youtube.com/watch?v=QH2-TGUlwu4
+	Songs to get stuck in your head	16	16	https://www.youtube.com/watch?v=LTunhRVyREU
+	Songs to get stuck in your head	17	17	https://www.youtube.com/watch?v=wirRZsAvJGQ
+	Songs to get stuck in your head	18	18	https://www.youtube.com/watch?v=3rYoRaxgOE0
+	Songs to get stuck in your head	19	19	https://www.youtube.com/watch?v=9Gc4QTqslN4
+	Songs to get stuck in your head	20	20	https://www.youtube.com/watch?v=NHozn0YXAeE
+	Songs to get stuck in your head	21	21	https://www.youtube.com/watch?v=k85mRPqvMbE
+	Songs to get stuck in your head	22	22	https://www.youtube.com/watch?v=Ak0zy49qsHE
+19	Words you can spell with the letters in your full name	1	Deliberately	javascript:;
+	Words you can spell with the letters in your full name	2	Unilaterally	javascript:;
+	Words you can spell with the letters in your full name	3	Alliterated	javascript:;
+	Words you can spell with the letters in your full name	4	Alternately	javascript:;
+	Words you can spell with the letters in your full name	5	Bilaterally	javascript:;
+	Words you can spell with the letters in your full name	6	Ebulliently	javascript:;
+	Words you can spell with the letters in your full name	7	Inalterable	javascript:;
+	Words you can spell with the letters in your full name	8	Unliberated	javascript:;
+	Words you can spell with the letters in your full name	9	Adulterate	javascript:;
+	Words you can spell with the letters in your full name	10	Alternated	javascript:;
+	Words you can spell with the letters in your full name	11	Attainable	javascript:;
+	Words you can spell with the letters in your full name	12	Bulletined	javascript:;
+	Words you can spell with the letters in your full name	13	Literately	javascript:;
+	Words you can spell with the letters in your full name	14	Neutrality	javascript:;
+	Words you can spell with the letters in your full name	15	Reattained	javascript:;
+	Words you can spell with the letters in your full name	16	Tarantella	javascript:;
+	Words you can spell with the letters in your full name	17	Tarantula	javascript:;
+	Words you can spell with the letters in your full name	18	Adrenally	javascript:;
+	Words you can spell with the letters in your full name	19	Auditable	javascript:;
+	Words you can spell with the letters in your full name	20	Ballerina	javascript:;
+	Words you can spell with the letters in your full name	21	Belatedly	javascript:;
+	Words you can spell with the letters in your full name	22	Blatantly	javascript:;
+20	Plants that (probably) aren't laurels	1	1	https://www.flickr.com/photos/jeannot7/156687759/
+	Plants that (probably) aren't laurels	2	2	https://www.flickr.com/photos/sonypic/18599643660/
+	Plants that (probably) aren't laurels	3	3	https://www.flickr.com/photos/steinrobi/2479688827/
+	Plants that (probably) aren't laurels	4	4	https://www.flickr.com/photos/59834291@N00/138558506/
+	Plants that (probably) aren't laurels	5	5	https://www.flickr.com/photos/springtreeroad/2640202216/
+	Plants that (probably) aren't laurels	6	6	https://www.flickr.com/photos/kevingianni/2536912227/
+	Plants that (probably) aren't laurels	7	7	https://www.flickr.com/photos/steinrobi/2480501996/
+	Plants that (probably) aren't laurels	8	8	https://www.flickr.com/photos/alderyarrow/72668860/
+	Plants that (probably) aren't laurels	9	9	https://www.flickr.com/photos/nickholloway/9546880083/
+	Plants that (probably) aren't laurels	10	10	https://www.flickr.com/photos/bfs_man/4463026159/
+	Plants that (probably) aren't laurels	11	11	https://www.flickr.com/photos/billy_wilson/3028855700/
+	Plants that (probably) aren't laurels	12	12	https://www.flickr.com/photos/vladislavfox/20197557396/
+	Plants that (probably) aren't laurels	13	13	https://www.flickr.com/photos/whimsies/4950466504/
+	Plants that (probably) aren't laurels	14	14	https://www.flickr.com/photos/49214499@N06/5713800240/
+	Plants that (probably) aren't laurels	15	15	https://www.flickr.com/photos/151194658@N08/33874365093/
+	Plants that (probably) aren't laurels	16	16	https://www.flickr.com/photos/omnia/3731085589/
+	Plants that (probably) aren't laurels	17	17	https://www.flickr.com/photos/soapywater/3502650985/
+	Plants that (probably) aren't laurels	18	18	https://www.flickr.com/photos/cameronmorrison/3112046948/
+	Plants that (probably) aren't laurels	19	19	https://www.flickr.com/photos/ceats/2502185321/
+	Plants that (probably) aren't laurels	20	20	https://www.flickr.com/photos/deeknow/81432328/
+	Plants that (probably) aren't laurels	21	21	https://www.flickr.com/photos/mandaleigh_94/3879763626/
+	Plants that (probably) aren't laurels	22	22	https://www.flickr.com/photos/26640383@N03/2497213873/
+21	Minty recipe ideas	1	1	http://allrecipes.com/recipe/24702/bavarian-mints/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203
+	Minty recipe ideas	2	2	http://allrecipes.com/recipe/218525/minted-carrots/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%205
+	Minty recipe ideas	3	3	http://allrecipes.com/recipe/139611/minted-salmon/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209
+	Minty recipe ideas	4	4	http://images.media-allrecipes.com/userphotos/250x250/00/22/74/227472.jpg
+	Minty recipe ideas	5	5	http://allrecipes.com/video/946/chocolate-mint-candies-cookies/?internalSource=videocard&referringContentType=search%20results&clickId=cardslot%206
+	Minty recipe ideas	6	6	http://allrecipes.com/recipe/203702/mint-jelly/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%208
+	Minty recipe ideas	7	7	http://allrecipes.com/video/3730/minted-rosemary-rose-cocktail/?internalSource=videocard&referringContentType=search%20results&clickId=cardslot%2012
+	Minty recipe ideas	8	8	http://allrecipes.com/recipe/83221/mint-chutney/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2011
+	Minty recipe ideas	9	9	http://allrecipes.com/recipe/45016/mint-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2014
+	Minty recipe ideas	10	10	http://allrecipes.com/recipe/49444/mint-juleps/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2015
+	Minty recipe ideas	11	11	http://allrecipes.com/recipe/24049/mint-patties/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2016
+	Minty recipe ideas	12	12	http://allrecipes.com/recipe/79657/butter-mints/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2018
+	Minty recipe ideas	13	13	http://allrecipes.com/video/597/azalinas-mint-chicken-curry/?internalSource=videocard&referringContentType=search%20results&clickId=cardslot%2017
+	Minty recipe ideas	14	14	http://allrecipes.com/recipe/10477/chocolate-mint-cookies-i/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2020
+	Minty recipe ideas	15	15	http://allrecipes.com/video/3425/peaches-n-mint-juice/?internalSource=videocard&referringContentType=search%20results&clickId=cardslot%2022
+	Minty recipe ideas	16	16	http://allrecipes.com/recipe/32483/chocolate-mint-milkshake/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2024
+	Minty recipe ideas	17	17	http://allrecipes.com/recipe/221005/mint-crusted-rack-of-lamb/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%2026
+	Minty recipe ideas	18	18	http://allrecipes.com/recipe/168516/mint-ice-cubes/?internalSource=recipe%20hub&referringContentType=search%20results&clickId=cardslot%2023
+	Minty recipe ideas	19	19	http://allrecipes.com/video/3223/st-patricks-chocolate-mint-cheesecake-bars?internalSource=videocard&referringContentType=search%20results&clickId=cardslot%2025
+	Minty recipe ideas	20	20	http://allrecipes.com/recipe/82247/lemonade-mint-iced-tea/?internalSource=recipe%20hub&referringContentType=search%20results&clickId=cardslot%2024
+	Minty recipe ideas	21	21	http://allrecipes.com/recipe/112336/strawberry-ginger-and-mint-sekanjabin/?internalSource=recipe%20hub&referringContentType=search%20results&clickId=cardslot%2027
+	Minty recipe ideas	22	22	http://allrecipes.com/recipe/222847/thyme-mint-chicken-pasta/?internalSource=recipe%20hub&referringContentType=search%20results&clickId=cardslot%2029
+22	Reasons you're awesome	1	The way you say "Kay..."	javascript:;
+	Reasons you're awesome	2	Coining "you got dis."	javascript:;
+	Reasons you're awesome	3	"Just kitten"	javascript:;
+	Reasons you're awesome	4	Spontaneously belching then squeaking "'scuse me!"	javascript:;
+	Reasons you're awesome	5	Babysitting	javascript:;
+	Reasons you're awesome	6	Managing two degrees and like 100 million jobs all at the same time	javascript:;
+	Reasons you're awesome	7	You can drum and play the sax like it's nothing	javascript:;
+	Reasons you're awesome	8	You drive people and their laundry	javascript:;
+	Reasons you're awesome	9	A shared addiction to PTX	javascript:;
+	Reasons you're awesome	10	You're basically famous at/around CMU	javascript:;
+	Reasons you're awesome	11	You get to drive golf carts sometimes	javascript:;
+	Reasons you're awesome	12	You low-key run CFA	javascript:;
+	Reasons you're awesome	13	You show racquetballs who's boss	javascript:;
+	Reasons you're awesome	14	You're a role model for music students present, past, and future	javascript:;
+	Reasons you're awesome	15	You can give a recital and be a Disney princess at the same time (twice!)	javascript:;
+	Reasons you're awesome	16	You can sprint from a dinner at a Greek formal and classily catch the closing number of a vocal recital while in nice clothes	javascript:;
+	Reasons you're awesome	17	You can put up with all sorts of roommates	javascript:;
+	Reasons you're awesome	18	You make time for genuine conversations with anyone who is in need.	javascript:;
+	Reasons you're awesome	19	You keep chicken populations under control.	javascript:;
+	Reasons you're awesome	20	You're open to new experiences	javascript:;
+	Reasons you're awesome	21	You're 22! Like, you can do almost all the adult things now!	javascript:;
+	Reasons you're awesome	22	You're you!	javascript:;
