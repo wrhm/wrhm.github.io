@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<!-- Inspired by: http://www.dreamincode.net/forums/topic/246337-a-simple-text-editor-in-html-javascript-and-a-tiny-bit-of-css/ -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Commoner Banner</title>
+	<!-- <link rel="stylesheet" type="text/css" href="style.css"/> -->
+	<style type="text/css">
+		.text_area {
+			width: 600px;
+			height: 300px;
+		}
+	</style>
+	<script type="text/javascript">
+		function replacer(match, p1) {
+			var commons = ['the','be','to','of','and','a','in','that','have','i','it','for','not','on','with','he','as','you','do','at','this','but','his','by','from','they','we','say','her','she','or','an','will','my','one','all','would','there','their','what','so','up','out','if','about','who','get','which','go','me','when','make','can','like','time','no','just','him','know','take','people','into','year','your','good','some','could','them','see','other','than','then','now','look','only','come','its','over','think','also','back','after','use','two','how','our','work','first','well','way','even','new','want','because','any','these','give','day','most','us'];
+			for (var i = 0; i<commons.length; i++) {
+				if(p1.toLowerCase() === commons[i]) {
+					return '<em><u><strong>' + p1 + '</strong></u></em>';
+				}
+			}
+			return p1;
+		}
+
+		function process(){
+			//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+			var textArea = document.getElementById('my_text');
+			var res = document.getElementById('results');
+			// var res = document.getElementById('my_text');
+			var text = textArea.value;
+			var RE0 = /([a-z]+)/gi;
+			var modified = text.replace(RE0,replacer);
+			var modified = modified.replace(/\n/gi,'<br>');
+			res.innerHTML = modified;
+		}
+	</script>
+</head>
+<body onload="process();">
+	<h1><u>Commoner Banner</u></h1>
+	<p>Type some text in the box below. Each word that is among the 100 most-common English words will become evident.<p>
+	<textarea class="text_area" id="my_text" onkeyup="process()">Put some text here and see which parts of it are bad.</textarea>
+	<hr>
+	<div id="results">
+	</div>
+</body>
+</html>
