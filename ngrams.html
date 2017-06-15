@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<!-- Inspired by: http://www.dreamincode.net/forums/topic/246337-a-simple-text-editor-in-html-javascript-and-a-tiny-bit-of-css/ -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>n-grams</title>
+	<!-- <link rel="stylesheet" type="text/css" href="style.css"/> -->
+	<style type="text/css">
+		.text_area {
+			width: 300px;
+			height: 500px;
+		}
+
+		.ib {
+			vertical-align: top;
+			display: inline-block;
+		}
+	</style>
+	<script type="text/javascript">
+		function ngramsToSlice(d,lim) {
+			var items = Object.keys(d).map(function(key) {
+				return [key,d[key]];
+			});
+			
+			items.sort(function(first,second) {
+				return second[1] - first[1];
+			});
+
+			if (lim < 0)
+				return items;
+			else
+				return items.slice(0,lim)
+		}
+
+		function ngrams(text,n,lim) {
+			var d = {};
+			var subst;
+			for (var i=0; i<text.length-n+1; i++) {
+				subst = "";
+				for (var j=0;j<n;j++){
+					subst += text.charAt(i+j);	
+				}
+
+				if (subst in d) {
+					d[subst] += 1;
+				} else {
+					d[subst] = 1;
+				}
+			}
+			return ngramsToSlice(d,lim);
+		}
+
+		function process(){
+			//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+			var textArea = document.getElementById('my_text');
+			var res = document.getElementById('results');
+			var text = textArea.value;
+			var sliceLen = document.getElementById('slice_slider').value;
+			var maxN = document.getElementById('maxN_slider').value;
+			console.log(sliceLen);
+			
+			var T = "<table border=\"1px solid black\">";
+			var th = "<tr>";
+			var ng = [];
+			for (var n=1;n<=maxN;n++){
+				ng.push(ngrams(text,n,sliceLen));
+				th += "<th>"+n+"</th>";
+			}
+			
+			T += th+"</tr>";
+
+			for(var rowInd=0;rowInd<sliceLen;rowInd++){
+				var tr = "<tr>";
+				for (var ngInd=0;ngInd<maxN;ngInd++){
+					if(rowInd<ng[ngInd].length) {
+						var x = ng[ngInd][rowInd];
+						tr += "<td>\""+x[0]+"\" ("+x[1]+")</td>";
+					}
+					else
+						tr += "<td></td>";
+				}
+				T += tr+"</tr>";
+			}
+			T += "</table>"
+			res.innerHTML = T;
+		}
+	</script>
+</head>
+<body onload="process();">
+	<h1><u>n-grams</u></h1>
+	<p>Type some text in the box below. Watch as the most common n-grams are displayed.<p>
+	<div>
+		<div class="ib">
+			<input type="range" id="maxN_slider" min=1 max=5 value=3 step=1 onchange="process()"> Maximum n</input><br>
+			<input type="range" id="slice_slider" min=5 max=20 value=10 step=5 onchange="process()"> Slice length</input><br>
+			<textarea class="text_area" id="my_text" onkeyup="process()">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</textarea>
+		</div>
+		<div id="results" class="ib">
+		</div>
+	</div>
+</body>
+</html>
